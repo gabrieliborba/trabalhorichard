@@ -14,18 +14,20 @@ form {
     position: relative;
     margin: 40px 0;
     top: 236px;
-    right: 41%;
+    left: 22%;
 }
 
 form label,
 form legend {
     display: block;
     font-size: 26px;
+    color: #fff;
     margin: 0 0 10px;
 }
 
 .input-padrao {
     display: block;
+    color: black;
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 35%;
@@ -63,7 +65,7 @@ form legend {
 }
 
 #faça-login {
-    color: rgb(0, 0, 0);
+    color: #fff;
     font-family: emoji;
     position: relative;
     left: 0%;
@@ -130,14 +132,15 @@ form legend {
 .p-recuperar {
     position: relative;
     font-size: 20px;
+    color: #fff;
 }
 
 #senha {
     position: relative;
-    color: black;
+    color: #fff;
 }
 
 #criar {
     position: relative;
-    color: black;
+    color: white;
 }
