@@ -144,3 +144,18 @@ form legend {
     position: relative;
     color: white;
 }
+
+#img-geral {
+    position: relative;
+    width: 4%;
+    top: 80%;
+}
+
+#p-geral {
+    position: relative;
+    width: 13%;
+    top: 78%;
+    font-weight: bold;
+    cursor: pointer;
+
+}
